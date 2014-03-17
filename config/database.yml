@@ -1,0 +1,4 @@
+production:
+  adapter: postgresql
+  database: jobber_prod
+  host: localhost
