@@ -21,7 +21,5 @@ gem "puma"
 
 gem "pg", "0.17.1"
 gem "activerecord-session_store"
-
-gem "protected_attributes"
 gem "rails_12factor"
 
